@@ -16,8 +16,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-search/en/programmers-development-systems/evaluation-boards-dc-dc-ac-dc-off-line-smps/2622539?k=BU90006 
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BU90004GWZ-E2-EVK-101/?qs=%2fha2pyFaduim0%2frOV9IIDXLOjLOSBcAyySv0EtOtXF%2f8dZ5CuT5iUWXtaW%252bI2QSA
+* http://www.rohm.com/web/global/distribution/-/dinventory/BU90006GWZ-E2/sample/0
 
 ----
 ### DISCLAIMER
